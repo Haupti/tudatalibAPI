@@ -1,0 +1,157 @@
+This file is part of the example files for uploading files and metadata via DSpace interface REST 6.
+This file was created my Marwin Acker, HiWi of Gerald Jagusch.
+Contact: marwin.ack@googlemail.com (pls only contact if important).
+
+This is a more complete list of all metadata keywords that can be set in TUdatalib.
+LARGE DISCLAIMERS:
+
+1) I do not make any claim of completeness!
+2) There are NO format for the value keywords given here! I can not make shure that there are not
+   any neccessary formats you have to comply for the value keywords for a successfull upload.
+3) Not all of the keywords may be in use for the collection your item is in. This may mean that
+   you cannot send the keywords for this item and if you do it may lead to errors or the values will simply be 
+   ignorend, but i dont know. Make shure that the keywords are in use in the collection you are 
+   uploading to!
+
+If you do not know if a desired keyword is activated in the collection you are uploading to you can 
+a) ask the collection administrator
+b) try if you can set a value for the keyword "manualy" with the graphical user interface of TUdatalib
+   (visit the website and try it)
+
+
+dc.contributor.advisor
+dc.contributor.author
+dc.contributor.editor
+dc.contributor.illustrator
+dc.contributor.other
+dc.contributor
+dc.coverage.spatial
+dc.coverage.temporal
+dc.creator
+dc.date.accessioned
+dc.date.available
+dc.date.copyright
+dc.date.created
+dc.date.issued
+dc.date.submitted
+dc.date.updated
+dc.date
+dc.description.abstract
+dc.description.provenance
+dc.description.sponsorship
+dc.description.statementofresponsibility
+dc.description.tableofcontents
+dc.description.uri
+dc.description.version
+dc.description
+dc.format.extent
+dc.format.medium
+dc.format.mimetype
+dc.format
+dc.identifier.citation
+dc.identifier.govdoc
+dc.identifier.isbn
+dc.identifier.ismn
+dc.identifier.issn
+dc.identifier.other
+dc.identifier.sici
+dc.identifier.slug
+dc.identifier.uri
+dc.identifier
+dc.language.iso
+dc.language.rfc3066
+dc.language
+dc.provenance
+dc.publisher
+dc.relation.haspart
+dc.relation.hasversion
+dc.relation.isbasedon
+dc.relation.isformatof
+dc.relation.ispartof
+dc.relation.ispartofseries
+dc.relation.isreferencedby
+dc.relation.isreplacedby
+dc.relation.isversionof
+dc.relation.replaces
+dc.relation.requires
+dc.relation.uri
+dc.relation
+dc.rights.holder
+dc.rights.license
+dc.rights.uri
+dc.rights
+dc.source.uri
+dc.source
+dc.subject.classification
+dc.subject.ddc
+dc.subject.lcc
+dc.subject.lcsh
+dc.subject.mesh
+dc.subject.other
+dc.subject
+dc.title.alternative
+dc.title
+dc.type
+dcterms.abstract
+dcterms.accessRights
+dcterms.accrualMethod
+dcterms.accrualPeriodicity
+dcterms.accrualPolicy
+dcterms.alternative
+dcterms.audience
+dcterms.available
+dcterms.bibliographicCitation
+dcterms.conformsTo
+dcterms.contributor
+dcterms.coverage
+dcterms.created
+dcterms.creator
+dcterms.date
+dcterms.dateAccepted
+dcterms.dateCopyrighted
+dcterms.dateSubmitted
+dcterms.description
+dcterms.educationLevel
+dcterms.extent
+dcterms.format
+dcterms.hasFormat
+dcterms.hasPart
+dcterms.hasVersion
+dcterms.identifier
+dcterms.instructionalMethod
+dcterms.isFormatOf
+dcterms.isPartOf
+dcterms.isReferencedBy
+dcterms.isReplacedBy
+dcterms.isRequiredBy
+dcterms.issued
+dcterms.isVersionOf
+dcterms.language
+dcterms.license
+dcterms.mediator
+dcterms.medium
+dcterms.modified
+dcterms.provenance
+dcterms.publisher
+dcterms.references
+dcterms.relation
+dcterms.replaces
+dcterms.requires
+dcterms.rights
+dcterms.rightsHolder
+dcterms.source
+dcterms.spatial
+dcterms.subject
+dcterms.tableOfContents
+dcterms.temporal
+dcterms.title
+dcterms.type
+dcterms.valid
+eperson.cn
+eperson.firstname
+eperson.language
+eperson.lastname
+eperson.phone
+eperson.tudUserUniqueID
+tud.project
+tud.tubiblio

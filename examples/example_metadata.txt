@@ -1,0 +1,11 @@
+[
+{"key":"dc.contributor.advisor",
+"value":"Feld1",
+"language":"Sprache"},
+{"key":"dc.contributor.author",
+"value":"Acker, Marwin",
+"language":None},
+{"key":"dc.date.issued",
+"value":"2019",
+"language":None}
+]
